@@ -1,0 +1,9 @@
+{
+  "id": "goal-mode",
+  "name": "Goal Mode",
+  "description": "Keeps an agent working on one objective across turns with automatic follow-ups.",
+  "media": ["assets/goals-screen.png"],
+  "requirements": {
+    "paseo": ">=0.11.4"
+  }
+}
